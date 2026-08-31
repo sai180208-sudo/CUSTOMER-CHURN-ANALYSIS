@@ -347,8 +347,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## ✍️ Author
 
-Data Science Team  
-August 2026
+BUDAGALA SRI SAI
+August 2025
 
 ## 🙏 Acknowledgments
 
